@@ -5,7 +5,7 @@ class Bcli < Formula
   head 'https://github.com/hybris/builder-cli/blob/feature/homebrew/dist/homebrew-builder/builder.tgz?raw=true'
   url  'https://github.com/hybris/builder-cli/blob/feature/homebrew/dist/homebrew-builder/builder.tgz?raw=true'
   version '0.0.1'
-  sha1 'cb3ba77d48abf4fad99d2e20f1fa8a08159b13d2'
+  sha1 'afd2073e34c1b092e298905a98ceee21166e3540'
 
   depends_on :arch => :x86_64
   
