@@ -3,7 +3,7 @@ require 'formula'
 class Bcli < Formula
   homepage 'https://github.com/SAP/builder-cli/tree/feature/homebrew/dist/homebrew-builder'
   url  'https://github.com/SAP/builder-cli/blob/feature/homebrew/dist/homebrew-builder/builder.tgz?raw=true'
-  version '2.2.3'
+  version '2.2.4'
   sha1 '3ece0cca420609e24a7afc9cee54aa895c2caefd'
 
   depends_on :arch => :x86_64
